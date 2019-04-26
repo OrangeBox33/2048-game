@@ -11,6 +11,9 @@
 # production
 /build
 
+# rar files
+*.rar
+
 # misc
 .DS_Store
 .env.local

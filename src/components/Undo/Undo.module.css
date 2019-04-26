@@ -1,0 +1,17 @@
+.undo {
+  position: absolute;
+  width: 100px;
+  height: 40px;
+  margin-top: -50px;
+  margin-left: 0px;
+  background: #8f7a66;
+  border-radius: 3px;
+  padding: 0 20px;
+  border: 0;
+  color: #f9f6f2;
+  font-weight: bold;
+  cursor: pointer;
+  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+  font-size: 18px;
+  outline: none;
+}

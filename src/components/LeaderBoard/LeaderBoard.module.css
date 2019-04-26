@@ -1,0 +1,54 @@
+.liderboard {
+  position: absolute;
+  margin-top: -829px;
+  margin-left: 327px;
+  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+.button {
+  border: none;
+  outline: none;
+  height: 55px;
+  margin-top: 0px;
+  margin-left: 0px;
+  background: #bbada0;
+  border: none;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 3px;
+  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+.block {
+  padding: 20px 0px;;
+  position: absolute;
+  width: 250px;
+  border-radius: 8px;
+  background: rgb(205,193,180);
+  margin-left: 180px;
+  margin-top: -55px;
+}
+
+.name {
+  position: absolute;
+  color: rgb(63, 63, 62);
+  margin-left: 110px;
+  font-size: 24px;
+  margin-top: -32px;
+  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+.score {
+  padding: 2px;
+  width: 100px;
+  text-align: end;
+  color: rgb(63, 63, 62);
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+}

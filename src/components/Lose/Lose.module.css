@@ -1,0 +1,52 @@
+.lose {
+  width: 700px;
+  height: 220px;
+  position: absolute;
+  margin-left: -110px;
+  background: rgba(119,110,101, 0.8);
+  border-radius: 7px;
+  margin-top: -600px;
+  padding: 0px;
+  text-align: center;
+}
+
+.h1 {
+  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+  color: #f7eee2;
+  font-size: 36px;
+}
+
+.p {
+  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+  color: #d3cbc1;
+  font-size: 24px;
+}
+
+.input {
+  border: none;
+  outline: none;
+  height: 38px;
+  border-radius: 5px;
+  font-size: 20px;
+  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+  background: #d3cbc1;
+  padding: 0px;
+  color: rgb(88, 82, 76);
+}
+
+.button {
+  border: none;
+  outline: none;
+  height: 40px;
+  margin-top: 0px;
+  background-color: #806956;
+  border: none;
+  color: white;
+  padding: 5px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}

@@ -1,0 +1,29 @@
+.score {
+  position: absolute;
+  margin-left: 210px;
+  margin-top: -143px;
+  background: #bbada0;
+  padding: 15px 25px;
+  height: 25px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.title {
+  margin-top: -10px;
+  font-size: 13px;
+  line-height: 13px;
+  text-align: center;
+  color: #eee4da;
+  
+}
+
+.scoreValue {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  line-height: 47px;
+  font-size: 25px;
+  margin-top: -5px;
+}
+
