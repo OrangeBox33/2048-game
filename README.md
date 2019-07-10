@@ -1,3 +1,5 @@
+Игра 2048. Скоро будет рабочая ссылка на Heroku
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
